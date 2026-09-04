@@ -1,4 +1,4 @@
-## Hi there, I'm [Olubukola] 👋
+## Hi there, I'm Olubukola
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -12,7 +12,7 @@
   <a href="mailto:bukola.ajayi@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## About Me 
 I'm a data analyst with a background in finance and media working across Excel, Power BI and SQL to clean, analyse and transform data into practical business insights.
 
 My focus includes dashboard development, data analysis, business reporting, financial reconciliation and performance insights. I focus not only on presenting numbers, but on understanding what the numbers mean and what stakeholders can do with them..
