@@ -10,7 +10,7 @@
 ## About Me 
 I'm a data analyst with a background in finance and media working across Excel, Power BI and SQL to clean, analyse and transform data into practical business insights.
 
-My focus includes dashboard development, data analysis, business reporting, financial reconciliation and performance insights. I focus not only on presenting numbers, but on understanding what the numbers mean and what stakeholders can do with them.
+My work focuses on dashboard development, data analysis, business reporting, financial reconciliation and performance insights. I focus not only on presenting numbers, but on understanding what the numbers mean and what stakeholders can do with them.
 
 When I'm not working with data, I enjoy reading, shopping and spending a day out with friends. I love the "aha!" moment when data reveals something new and useful.
 
