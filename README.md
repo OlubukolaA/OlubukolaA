@@ -41,7 +41,7 @@ Includes MoM trends, supplier segmentation, invoice categorisation, and full DAX
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/Dashboard%20Design-Proficient-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/Datae%20Storytelling-Proficient-45B7D1?style=flat">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Proficient-45B7D1?style=flat">
   <img src="https://img.shields.io/badge/KPI%20Development-Proficient-96CEB4?style=flat">
 </p>
 
