@@ -20,7 +20,7 @@ Includes MoM trends, supplier segmentation, invoice categorisation, and full DAX
 🔗 https://github.com/OlubukolaA/cabinet_office_spend_analysis
 
 ## 🎓 Certifications
-- Microsoft Certified: Data Analyst Associate (PL‑300)
+- ## Microsoft Certified: Power BI Data Analyst Associate (PL‑300)
 
 ## 🛠 Tools I Use
 - Power BI Desktop  
