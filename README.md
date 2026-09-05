@@ -12,9 +12,6 @@ When I'm not working with data, I enjoy reading, learning new things, shopping a
   <a href="mailto:bukola.ajayi@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=yahoo"></a>
 </p>
 
-### 🌐 Portfolio Website
-https://OlubukolaA.github.io/
-
 ## 📊 Featured Projects
 
 ### **Cabinet Office Spend Analysis (Power BI)**
@@ -43,9 +40,8 @@ Includes MoM trends, supplier segmentation, invoice categorisation, and full DAX
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat">
+  <img src="https://img.shields.io/badge/Dashboard%20Design-Proficient-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/Datae%20Storytelling-Proficient-45B7D1?style=flat">
+  <img src="https://img.shields.io/badge/KPI%20Development-Proficient-96CEB4?style=flat">
 </p>
 
