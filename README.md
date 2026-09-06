@@ -19,7 +19,7 @@ A fiscal‑year transparency dashboard analysing Cabinet Office spend over £25,
 Includes MoM trends, supplier segmentation, invoice categorisation, and full DAX documentation.  
 🔗 https://github.com/OlubukolaA/cabinet_office_spend_analysis
 
-## 🎓 Certifications
+##  Certifications
 - ## Microsoft Certified: Power BI Data Analyst Associate (PL‑300)
 
 ## 🛠 Tools I Use
