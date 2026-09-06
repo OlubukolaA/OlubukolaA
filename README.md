@@ -14,11 +14,11 @@ When I'm not working with data, I enjoy reading, learning new things, shopping a
 
 ##  Featured Projects
 
-**Cabinet Office Spend Analysis (Power BI)**
+## **Cabinet Office Spend Analysis (Power BI)**
 A fiscal‑year transparency dashboard analysing Cabinet Office spend over £25,000.  
 Includes MoM trends, supplier segmentation, invoice categorisation, and full DAX documentation.  
 🔗 https://github.com/OlubukolaA/cabinet_office_spend_analysis
-**UK Rail Passenger & Sales Performance Dashboard**
+## **UK Rail Passenger & Sales Performance Dashboard**
 Operational dashboard covering passenger usage, sales performance and service reliability.    
 🔗 https://github.com/OlubukolaA/railway_usage_operational_analysis
 
