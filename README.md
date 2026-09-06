@@ -22,7 +22,7 @@ Includes MoM trends, supplier segmentation, invoice categorisation, and full DAX
 ##  Certifications
 - ## Microsoft Certified: Power BI Data Analyst Associate (PL‑300)
 
-## 🛠 Tools I Use
+##  Tools I Use
 - Power BI Desktop  
 - SQL Server / MySQL  
 - Excel (PivotTables, Power Query)  
