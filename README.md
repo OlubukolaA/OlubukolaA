@@ -18,8 +18,8 @@ When I'm not working with data, I enjoy reading, learning new things, shopping a
 A fiscal‑year transparency dashboard analysing Cabinet Office spend over £25,000.  
 Includes MoM trends, supplier segmentation, invoice categorisation, and full DAX documentation.  
 🔗 https://github.com/OlubukolaA/cabinet_office_spend_analysis
-### **Trainline Analysis**
-Operational dashboard covering passenger usage, sales performance and service reliability.
+### **UK Rail Passenger & Sales Performance Dashboard**
+Operational dashboard covering passenger usage, sales performance and service reliability.    
 🔗 https://github.com/OlubukolaA/railway_usage_operational_analysis
 
 ##  Certifications
