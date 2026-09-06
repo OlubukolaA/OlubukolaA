@@ -6,13 +6,13 @@ My work focuses on dashboard development, data analysis, business reporting, fin
 
 When I'm not working with data, I enjoy reading, learning new things, shopping and spending a day out with friends.
 
-### 📬 Connect With Me
+###  Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/olubukolamajayi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:bukola.ajayi@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=yahoo"></a>
 </p>
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### **Cabinet Office Spend Analysis (Power BI)**
 A fiscal‑year transparency dashboard analysing Cabinet Office spend over £25,000.  
@@ -29,7 +29,7 @@ Includes MoM trends, supplier segmentation, invoice categorisation, and full DAX
 - GitHub  
 - VS Code  
 
-## 💡 Technical Skillset
+##  Technical Skillset
 
 #### Data Analysis & Visualization
 <p>
